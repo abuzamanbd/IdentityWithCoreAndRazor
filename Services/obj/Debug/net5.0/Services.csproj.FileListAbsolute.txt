@@ -1,0 +1,15 @@
+D:\mp\IdentityWithRazor\Services\bin\Debug\net5.0\Services.deps.json
+D:\mp\IdentityWithRazor\Services\bin\Debug\net5.0\Services.dll
+D:\mp\IdentityWithRazor\Services\bin\Debug\net5.0\ref\Services.dll
+D:\mp\IdentityWithRazor\Services\bin\Debug\net5.0\Services.pdb
+D:\mp\IdentityWithRazor\Services\bin\Debug\net5.0\Repositories.dll
+D:\mp\IdentityWithRazor\Services\bin\Debug\net5.0\Repositories.pdb
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.csprojAssemblyReference.cache
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.dll
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\ref\Services.dll
+D:\mp\IdentityWithRazor\Services\obj\Debug\net5.0\Services.pdb

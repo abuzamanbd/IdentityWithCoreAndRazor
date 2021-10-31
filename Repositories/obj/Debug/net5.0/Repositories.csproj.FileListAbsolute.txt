@@ -1,0 +1,14 @@
+D:\mp\IdentityWithRazor\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\mp\IdentityWithRazor\Repositories\bin\Debug\net5.0\Repositories.runtimeconfig.json
+D:\mp\IdentityWithRazor\Repositories\bin\Debug\net5.0\Repositories.runtimeconfig.dev.json
+D:\mp\IdentityWithRazor\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\mp\IdentityWithRazor\Repositories\bin\Debug\net5.0\ref\Repositories.dll
+D:\mp\IdentityWithRazor\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.pdb
+D:\mp\IdentityWithRazor\Repositories\obj\Debug\net5.0\Repositories.genruntimeconfig.cache
