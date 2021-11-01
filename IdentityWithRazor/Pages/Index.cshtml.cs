@@ -80,6 +80,12 @@ namespace IdentityWithRazor.Pages
                 if (result != null)
                 {
                     //_logger.LogInformation("User logged in.");
+                    var callbackUrl = Url.Page(
+                        "/Account/ConfirmEmail",
+                        pageHandler: null,
+                        values: new { area = "Identity", returnUrl = returnUrl },
+                        protocol: Request.Scheme);
+
                     return LocalRedirect(returnUrl);
                 }
                 //if (result.RequiresTwoFactor)
