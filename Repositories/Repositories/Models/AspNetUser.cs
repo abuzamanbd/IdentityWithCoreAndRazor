@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 #nullable disable
 
@@ -13,7 +14,7 @@ namespace Repositories.Repositories.Models
             AspNetUserLogins = new HashSet<AspNetUserLogin>();
             AspNetUserRoles = new HashSet<AspNetUserRole>();
         }
-
+        [Key]
         public Guid Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

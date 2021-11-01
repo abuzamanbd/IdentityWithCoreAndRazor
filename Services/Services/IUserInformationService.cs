@@ -24,7 +24,16 @@ namespace Services.Services
 
         public async Task<AspNetUser> GetUser(string email)
         {
-            return await _unitOfWork.UserInformationRepository.FindSingleAsync(x => x.Email == email);
+            try
+            {
+                var result = await _unitOfWork.UserInformationRepository.FindSingleAsync(x => x.Email == email);
+                return result;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
     }
 }
